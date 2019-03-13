@@ -9,3 +9,8 @@
 3. Membuat pull request
 
 testing
+
+ref : 
+https://codesaya.com/git/github/repo-di-github/unit/4/
+https://yangsu.github.io/pull-request-tutorial/
+https://www.petanikode.com/github-workflow/
