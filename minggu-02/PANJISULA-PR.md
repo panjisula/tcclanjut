@@ -1,0 +1,16 @@
+# Pull Request dari Akun lain (milik sendiri)
+
+Ini adalah file yang ditambahkan lewat Pull Request dari akun ke-2 saya : [Link ke akun github panjisula2](https://github.com/panjisula2).
+
+## Langkahnya, sebagai berikut : 
+
+1. Membuat fork dari repo yang akan dilakukan PR.
+![GambAR 1 - fork]()
+
+2. Melakukan clone ke repo lokal menggunakan akun panjisula2.
+![GambAR 2 - clone]()
+
+3. Membuat file yang akan diajukan untuk proses PR.
+![GambAR 3 - ]()
+
+4. Melakukan 
